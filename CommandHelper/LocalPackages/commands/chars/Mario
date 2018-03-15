@@ -1,0 +1,72 @@
+
+buffs:
+
+- /effect <plr> 5 9999 10 true
+
+- /effect <plr> 10 9999 1 true
+
+- /disguiseplayer <plr> creeper setinvisible
+
+class: Mario
+
+costumes:
+
+- chatcolor: '&4'
+
+  name: §4A§0n§4t-M§0a§4n
+
+  sig: vIUjZalLbr2nxxeEKMMlKeD+pzqy1tF9A+W7yJw0IbBRKbnHwSm3IdeQ2VDaF6dunxM9FtbsifteZy51vBzkJthGo/wFIQlI6LqfAieQ7vTyR0af8Gb6TyamIzNcA2ScnvxCzRXWzxoWfODmvhfVWCPhRDcU6CyQ9AMINgcXlNgf/w8I4eT4txHctzhTPUnwmNTTcRi6n71ohmoGkGe3tnC5gpLRHYd2fO8mjmVTGbGn538IQIwtGdsjHPHrCfQvVynw8xcIG3RMIXBF3dyYwgeyA9i9BXSZ+yJl4re4cbBPrc6ZzpPtvx6x/JSaCkRbMgBxpmp7FAFPIWOOWnjKHEu/RKpaWwVB6a/qAP0JEMOHl/bp2qRpuWHMOb1jhzDlZ63S9J/ampo4F/rgNJkPyYWiFj+1Ew5xi+woqFUdLOCJPQ69MxUbF7gsALzqQ3ZKJcUXH48tCfZNP7C5H+jNJDSQz/1RsEnP2auYjK/cVjXTTf4xSHc1Nczaip4kAMrXD76DsrAOzfoJYRFvyYfoJAcBuGnUTSxlsAEGYDAjJ4ZvIl19oKa5sI5/fKLP16TPyzmKDxvLAr9/jUyWXz/wj5cKIvMa/NSVCtN8PQhtjo5NbXVoyCrucY/RqIYOKYW1HmtF7gjoDQWj6BrRF7k7kRm8XrqM+XCbJ7m8QTT6Dhg=
+
+  val:eyJ0aW1lc3RhbXAiOjE1MjExNDg5NTM1NzMsInByb2ZpbGVJZCI6IjQzM2EwZDhlYWE4YTQyYWViYzU0ZjQ0NTZiZjM2NmMwIiwicHJvZmlsZU5hbWUiOiJBbnRpU2VwdGljRXllMSIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjY1ZDk1ZTI2MGM4ZWY3ZGJlOTg4ZWQwYTY3ZTVjODQ5NDA4N2E4NmFhZTExOWYzYTM5ODQxOGI5N2IzMCJ9fX0= 
+
+haste: 3
+
+jump: 6
+
+maxHearts: 12
+
+permissions:
+
+  superherocity:
+
+  - ch.alias.grow
+
+  - ch.alias.shrink
+
+  - ch.alias.normalsize
+
+  - libsdisguises.undisguise
+
+  - -essentials.protect.damage.fall
+
+  - ch.alias.dismountplayer
+
+  - ch.alias.carryplayer
+
+powers:
+
+- /buff
+
+- /jump <0-6>
+
+- /run <0-4>
+
+- /haste <0-3>
+
+- /carryplayer <player>
+
+- /dismountplayer
+
+- /shrink
+
+- /normalsize
+
+- /grow
+
+run: 4
+
+speech: Here we gooooo!
+
+trail: [
+
+  
